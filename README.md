@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JoostMSoftware=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoostMSoftware&show_icons=true&theme=tokyonight)
 
 <!--
 **JoostMSoftware/JoostMSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
