@@ -12,3 +12,5 @@ I'm mostly work with Java (Due to Minecraft Java edition) but also work with PHP
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail me at joostmsoftware@gmail.com 
 - 😄 Pronouns: None of your business :3
+
+If you want to DM me on discord for mod questions or questions in general, add me and send me a message -> JoostMSoftware#3943
