@@ -1,16 +1,26 @@
-### Hello there and welcome to my Github👋
-I'm mostly a Minecraft modder, I use [Fabric](https://fabricmc.net/) the most. (But use [Quilt](https://quiltmc.org/) and [Forge](https://forums.minecraftforge.net/) as well)
+# Welcome to my github repository 👋
 
-I'm from the Netherlands and I'm 19 years old. <br />
+I'm Joost aka JoostMSoftware, I'm from the netherlands and I'm a software developer (student). I make web applications and minecraft mods
 
-I'm mostly work with Java (Due to Minecraft Java edition) but also work with PHP, SvelteJS. I'm always interested into learning new languages and new challenges!
+## What do I code in?
+
+I code in the following languages.
+- HTML/CSS/JS
+- php
+- Java
+- Rust
+- Zig
+- C++/C#
+
+## What do I do?
+
+I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most as it's easy to learn, easy to understand and rather supportive with third party dependencies. I also work with the Svelte javascript framework for my webdevelopment and rust for my API. 
+
+
+## Contact
+
+You can write me a mail at joostmsoftware@gmail.com or you can contact me on discord either in my [discord]() server or add me JoostMSoftware#3943
+
+## Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoostMSoftware&show_icons=true&theme=tokyonight)
-
-- 🔭 I’m currently working on a few Minecraft Mods
-- 🌱 I’m currently learning SvelteJS/Sveltekit & Rust
-- 💬 Ask me about anything 
-- 📫 How to reach me: mail me at joostmsoftware@gmail.com 
-- 😄 Pronouns: None of your business :3
-
-If you want to DM me on discord for mod questions or questions in general, add me and send me a message -> JoostMSoftware#3943
