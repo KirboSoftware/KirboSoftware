@@ -9,12 +9,12 @@ I code in the following languages.
 - php
 - Java
 - Rust
-- Zig
-- C++/C#
 
 ## What do I do?
 
-I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most as it's easy to learn, easy to understand and rather supportive with third party dependencies. I also work with the Svelte javascript framework for my webdevelopment and rust for my API. 
+I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most. I make websites and REST api's. I love learning new languages and new ways of coding. 
+
+I have great knowledge of hardware and making PC's/Server's 
 
 
 ## Contact
