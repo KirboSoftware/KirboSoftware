@@ -12,14 +12,16 @@ I code in the following languages.
 
 ## What do I do?
 
-I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most. I make websites and REST api's. I love learning new languages and new ways of coding. 
+I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most. I do make websites and REST api's but I rather work on other things like making mods for the games I play.
 
-I have great knowledge of hardware and making PC's/Server's 
+I love learning new languages and new ways of coding. 
+
+I have great knowledge of hardware and making PC's/Server's. 
 
 
 ## Contact
 
-You can write me a mail at joostmsoftware@gmail.com or you can contact me on discord either in my [discord]() server or add me JoostMSoftware#3943
+You can write me a mail at joostmsoftware@gmail.com or you can contact me on discord either in my [discord](https://discord.gg/E4NypRM8NG) server or add me JoostMSoftware#3943
 
 ## Github stats
 
