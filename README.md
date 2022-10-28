@@ -12,7 +12,7 @@ I code in the following languages.
 
 ## What do I do?
 
-I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader the most. I do make websites and REST api's but I rather work on other things like making mods for the games I play.
+I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader. I do make websites and REST api's but I rather work on other things like making mods for the games I play.
 
 I love learning new languages and new ways of coding. 
 
