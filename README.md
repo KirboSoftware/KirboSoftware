@@ -1,6 +1,6 @@
 # Welcome to my github repository 👋
 
-I'm Joost aka JoostMSoftware, I'm from the netherlands and I'm a software developer (student). I make web applications and minecraft mods
+I'm Joost aka JoostMSoftware, I'm from the netherlands and I'm a software developer (student). I make web applications, minecraft mods and different kinds of applications. 
 
 ## What do I code in?
 
