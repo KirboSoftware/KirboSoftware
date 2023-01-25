@@ -1,23 +1,14 @@
 # Welcome to my github repository 👋
 
-I'm Joost aka JoostMSoftware, I'm from the netherlands and I'm a software developer (student). I make web applications, minecraft mods and different kinds of software. 
+I'm JoostMSoftware aka Joost and I'm a minecraft mod developer mainly using the Fabric loader but I have some experience with Quilt and Forge. 
 
-## What do I code in?
+I also code other things, considering making games using Godot or Unity. 
 
-I code in the following languages.
-- HTML/CSS/JS
-- php
+## What languages do I use?
+
 - Java
 - Rust
-
-## What do I do?
-
-I'm mostly a Minecraft modder, I use the [Fabric](https://fabricmc.net/) modloader. I do make websites and REST api's but I rather work on other things like making mods for the games I play.
-
-I love learning new languages and new ways of coding. 
-
-I have great knowledge of hardware and making PC's/Server's. 
-
+- Go
 
 ## Contact
 
