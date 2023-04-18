@@ -12,7 +12,7 @@ I also code other things, considering making games using Godot or Unity.
 
 ## Contact
 
-You can write me a mail at joostmsoftware@gmail.com or you can contact me on discord either in my [discord](https://discord.gg/E4NypRM8NG) server or add me JoostMSoftware#3943
+You can write me a mail at joostmsoftware@gmail.com or you can contact me on discord either in my [discord](https://discord.gg/E4NypRM8NG) server or add me JoostMSoftware#3482
 
 ## Github stats
 
