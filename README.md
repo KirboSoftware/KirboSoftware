@@ -1,4 +1,5 @@
-# Welcome to my github repository 👋
+<img src="https://github.com/JoostMSoftware/JoostMSoftware/assets/80041873/438e4d3e-7ee0-44a4-9d09-4b6bdd6f834a">
+
 
 I'm JoostMSoftware aka Joost and I'm a software engineer student which does various kinds of things. 
 I'm a part-time minecraft mod developer and looking for other games to mod (like BTD6). 
