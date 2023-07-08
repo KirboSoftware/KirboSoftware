@@ -6,13 +6,13 @@ I'm a part-time minecraft mod developer and looking for other games to mod (like
 
 I'm also considering making games using Godot or Unity, will see about that :3 
 
-if you ever want me to do stuff for you, check my contact and make sure to read things through!
+if you ever want me to do stuff for you, check my contact and we could see where things go!
 <br />
 
 <img src="https://github.com/JoostMSoftware/JoostMSoftware/assets/80041873/b5ef3ec5-7d41-41ef-861c-bde06868345c">
 
 - Java
-- Rust
+- Python
 - C#
 - JavaScript/TS
 
