@@ -15,4 +15,4 @@ you can contact me on discord either in my [discord](https://discord.gg/E4NypRM8
 
 ## Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoostMSoftware&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirboSoftware&show_icons=true&theme=tokyonight)
