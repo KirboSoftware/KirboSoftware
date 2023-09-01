@@ -10,14 +10,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Europe/Amsterdam
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
-          plugin_isocalendar: yes
+          base: header, activity, community
           plugin_languages: yes
-          plugin_stars: yes
+          plugin_languages_indepth: yes
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          plugin_languages_indepth: yes
-          config_order: base.header, base.activity, base.community, base.repositories, isocalendar, languages, stars
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_repositories: yes
+          config_order: base.header, base.activity, base.community, repositories, languages, topics, people
