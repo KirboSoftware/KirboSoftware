@@ -10,19 +10,25 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
           config_timezone: Europe/Amsterdam
           filename: metrics.base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community
           plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          commits_authoring: username
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icons
+          plugin_languages_threshold: 0%
           plugin_people: yes
           plugin_people_types: followers
           plugin_repositories: yes
           plugin_repositories_pinned: 6
-          config_order: base.header, base.activity, base.community, repositories, languages, topics, people
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
