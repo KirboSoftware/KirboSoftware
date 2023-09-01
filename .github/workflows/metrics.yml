@@ -17,9 +17,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
           plugin_people: yes
           plugin_people_types: followers
           plugin_repositories: yes
+          plugin_repositories_pinned: 6
           config_order: base.header, base.activity, base.community, repositories, languages, topics, people
